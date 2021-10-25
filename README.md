@@ -8,10 +8,8 @@ Crear, entrenar e implementar un modelo de aprendizaje automático sencillo usan
 
 ## Que aprenderás
 
--Creará una instancia de bloc de notas
--Preparará los datos
--Entrenará el modelo para aprender de los datos
--Implementará el modelo
--Evaluará el rendimiento de su modelo de aprendizaje automático
-
-## Notas
+- Creará una instancia de bloc de notas
+- Preparará los datos
+- Entrenará el modelo para aprender de los datos
+- Implementará el modelo
+- Evaluará el rendimiento de su modelo de aprendizaje automático
